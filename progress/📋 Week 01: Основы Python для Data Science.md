@@ -7,7 +7,7 @@
 ✅ Завершение: Пройти интерактивные упражнения 1-5
 
 ### Практика: работа со строками и числами
-🔗 [Google Colab: Python Basics Exercises]([https://colab.research.google.com/github/rounakbanik/python-exercises/blob/main/python_basics.ipynb](https://colab.research.google.com/github/ryanorsinger/101-exercises/blob/main/101-exercises.ipynb))
+🔗 [Google Colab: Python Basics Exercises](https://colab.research.google.com/github/ryanorsinger/101-exercises/blob/main/101-exercises.ipynb)
 ✅ Завершение: Выполнить ячейки 1-10, сохранить копию в своём Google Drive
 
 ### Самостоятельная задача: калькулятор ИМТ
